@@ -455,20 +455,7 @@
                         },
                         "_type": "custom.template",
                         "_id": "1648699620174x197764211520045060"
-                    }
-                ]
-            },
-            "at_end": false,
-            "search_version": 1708481670886,
-            "extras": []
-        }
-    ]
-},
-{
-    "responses": [
-        {
-            "hits": {
-                "hits": [
+                    },
                     {
                         "_version": 3755210441,
                         "found": true,
@@ -953,20 +940,7 @@
                         },
                         "_type": "custom.template",
                         "_id": "1685053512468x439005318329139200"
-                    }
-                ]
-            },
-            "at_end": false,
-            "search_version": 1708519705610,
-            "extras": []
-        }
-    ]
-},
-{
-    "responses": [
-        {
-            "hits": {
-                "hits": [
+                    },
                     {
                         "_version": 3627149821,
                         "found": true,
@@ -1448,20 +1422,7 @@
                         },
                         "_type": "custom.template",
                         "_id": "1648700269284x691954968321065000"
-                    }
-                ]
-            },
-            "at_end": false,
-            "search_version": 1708519725141,
-            "extras": []
-        }
-    ]
-},
-{
-    "responses": [
-        {
-            "hits": {
-                "hits": [
+                    },
                     {
                         "_version": 3728227036,
                         "found": true,
@@ -1910,20 +1871,7 @@
                         },
                         "_type": "custom.template",
                         "_id": "1648706239960x659996233863266300"
-                    }
-                ]
-            },
-            "at_end": false,
-            "search_version": 1708519744128,
-            "extras": []
-        }
-    ]
-},
-{
-    "responses": [
-        {
-            "hits": {
-                "hits": [
+                    },
                     {
                         "_version": 3525437323,
                         "found": true,
