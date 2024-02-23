@@ -1,18 +1,4 @@
 [
-{
-    "responses": [
-        {
-            "hits": {
-                "total": 0,
-                "hits": []
-            },
-            "at_end": true,
-            "search_version": 1708481670880,
-            "extras": []
-        },
-        {
-            "hits": {
-                "hits": [
                     {
                         "_version": 3760240135,
                         "found": true,
@@ -2322,12 +2308,3 @@
                         "_id": "1677182764483x887054389762850800"
                     }
                 ]
-            },
-            "at_end": false,
-            "search_version": 1708519756034,
-            "extras": []
-        }
-    ]
-}
-
-]
